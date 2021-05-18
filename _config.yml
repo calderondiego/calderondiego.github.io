@@ -90,8 +90,8 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path: "/projects/"
+      type: pages
     values:
       layout: single
       author_profile: true
