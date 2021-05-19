@@ -7,3 +7,7 @@ tags:
   - DIY
   - update
 ---
+
+We thought to ourselves, it can't be that hard, right?
+
+Well, it was. 
