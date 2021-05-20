@@ -9,5 +9,4 @@ Here are some of the projects I have worked on:
 ![Splines](/assets/images/spline.gif)
 ![Trained agent](/assets/images/gta5agent.gif)
 ![Arya interactions](/assets/images/arya.png)
-
-{% Video /assets/images/capstone.mp4 500 400 %}
+![Back in time](/assets/images/backintime.gif)
