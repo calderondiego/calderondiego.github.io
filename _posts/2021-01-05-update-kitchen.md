@@ -6,7 +6,6 @@ categories:
 tags:
   - DIY
   - update
-author_profile: true
 ---
 
 We thought to ourselves, it can't be that hard, right?

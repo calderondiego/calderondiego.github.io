@@ -77,8 +77,8 @@ author:
 defaults:
   # _posts
   - scope:
-      path: "/projects/"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
