@@ -16,4 +16,4 @@ Here are a few presentations I've made in the past:
 
 Final presentation for SAMSI project: [Data Assimilation for Numerical Weather Prediction][1]
 
-[1]:{{ site.url }}/download/nwp-project.pdf
+[1]:{{ site.url }}/assets/files/nwp-project.pdf
