@@ -6,6 +6,8 @@ vimeoId: 553460762
 
 Here are some of the projects I have worked on:
 
+## A Monty Hall web app
+![Trained agent](/assets/images/monty.png)
 ## A deep reinforcement agent looking for the treasure
 ![Trained agent](/assets/images/2dagent.gif)
 ## A runtime spline generator from a hex grid
