@@ -6,8 +6,12 @@ vimeoId: 553460762
 (Under construction)
 Here are some of the projects I have worked on:
 
+## A post processing toon shader
+![Toon shader](/assets/images/car.jpg)
+## A simple renderer in C++
+![Simple renderer](/assets/images/toon_shader_far.png)
 ## A Monty Hall web app
-![Trained agent](/assets/images/monty.png)
+![Monty Hall](/assets/images/monty.png)
 ## A deep reinforcement agent looking for the treasure
 ![Trained agent](/assets/images/2dagent.gif)
 ## A runtime spline generator from a hex grid
