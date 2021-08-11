@@ -7,9 +7,9 @@ vimeoId: 553460762
 Here are some of the projects I have worked on:
 
 ## A post processing toon shader
-![Toon shader](/assets/images/toon_shader_far.png)
+![Toon shader](/assets/images/toon_shader_far.PNG)
 ## A simple renderer in C++
-![Simple renderer](/assets/images/car.png)
+![Simple renderer](/assets/images/car.jpg)
 ## A Monty Hall web app
 ![Monty Hall](/assets/images/monty.png)
 ## A deep reinforcement agent looking for the treasure
