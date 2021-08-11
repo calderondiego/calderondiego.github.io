@@ -6,4 +6,4 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: {{ site.url }}/assets/files/DiegoCalderonCV.pdf
+    url: /cv/
