@@ -5,3 +5,5 @@ main:
     url: /presentations/
   - title: "About"
     url: /about/
+  - title: "CV"
+    url: {{ site.url }}/assets/files/DiegoCalderonCV.pdf
