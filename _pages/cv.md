@@ -1,3 +1,8 @@
+---
+permalink: /cv/
+title: "CV"
+---
+
 
 [CV][1]
 
