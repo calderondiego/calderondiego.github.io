@@ -29,7 +29,7 @@ While we thought what to do about that, we removed the floating floor and the ti
 under it. After sanding the black tar that was glued to the wood subfloor, we realized that the tiles
 and glue might contain asbestos. We were sanding the possibly asbestos filled tiles and tar on 
 Christmas day. We sent samples to a lab to check if they were dangerous to dispose with the rest
-of the building materials, and luckily, they had less that 1% of asbestos, so it was safe to 
+of the building materials, and luckily, the result came back as negative, so it was safe to 
 remove and dispose. Still, those 4 days waiting for the results were a nightmare. The information 
 about asbestos and the health issues it causes are not clear in the government websites-- we 
 thought that we might have inhaled a material containing asbestos and that developing 
