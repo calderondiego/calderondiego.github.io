@@ -64,7 +64,7 @@ author:
   bio    : "Highly adaptable and lifelong learner."
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=uiWCtzcAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
