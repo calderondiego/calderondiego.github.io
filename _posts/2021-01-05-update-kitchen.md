@@ -22,7 +22,7 @@ kitchen. Instead of saying that it was over our heads, we got some PPE over them
 demolishing the cabinets. We cursed the whole time. We fought with cabinets that were nailed 4 
 inches into the studs and we prevailed-- the walls didn't. "Ehm, honey? We need to fix the drywall."
 At least that's what we thought the walls were made of, but, um, no. Our walls are plaster.
-![Kitchen 1](/assets/images/1.jpg)
+![Kitchen 1](../assets/images/1.jpg)
 After we removed all the cabinets, we realized that the kitchen electric was not up to code. The
 fridge was connected to an adapter and the grounding cable was dangling there. 
 While we thought what to do about that, we removed the floating floor and the tiles that were glued 
@@ -34,12 +34,16 @@ remove and dispose. Still, those 4 days waiting for the results were a nightmare
 about asbestos and the health issues it causes are not clear in the government websites-- we 
 thought that we might have inhaled a material containing asbestos and that developing 
 asbestosis was most likely, but that's a topic for another day.
-![Kitchen 2](/assets/images/2.jpg)
+![Kitchen 2](../assets/images/2.jpg)
 After an electrician brought our kitchen up to code, we removed the remaining tile from the 
 subfloor and demolished the closet. Then we patched the holes in the wall and floor. We then 
 had no idea what to do. We already bought 12x24 tile and mortar that was sitting in our 
 living room, but we still had that black tar in the subfloor. We learned that we could
 add cement and level the room, and then add the decoupling mat. Now it was January and we were
 mixing cement outside in very cold weather.
-![Kitchen 4](/assets/images/4.jpg)
-![Kitchen 4](/assets/images/5.jpg)
+![Kitchen 4](../assets/images/4.jpg)
+![Kitchen 4](../assets/images/5.jpg)
+
+And the final product:
+![Kitchen 4](../assets/images/38.jpeg)
+We did everything except for the electric and plumbing! We used construction wood to make the shelves.
