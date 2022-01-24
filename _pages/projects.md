@@ -8,7 +8,7 @@ Here are some of the projects I have worked on:
 
 ## Internet of Things Specialization project: a wee self-driving car
 ![Wee car](/assets/images/weecar.jpg)
-##[A toy object detection microservice using FastAPI](https://github.com/calderondiego/toy-object-detection/tree/main/service)
+## [A toy object detection microservice using FastAPI](https://github.com/calderondiego/toy-object-detection/tree/main/service)
 ![Object detection](/assets/images/detection.jpeg)
 ## [A Monty Hall game and simulation in R](https://dacalderon.shinyapps.io/montyhall/)
 ![Monty Hall](/assets/images/monty.png)
