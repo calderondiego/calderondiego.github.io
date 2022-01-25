@@ -10,6 +10,8 @@ Research programmer at [NCSA](https://www.ncsa.illinois.edu/) working on three o
 <i class="fab fa-fw fa-github"></i> [GitHub](https://github.com/calderondiego)
 <i class="fab fa-fw fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/diego-calderon-82a2b911a/)
 
+Currently enrolled on UIUC's [Hands-on Internet of Things Specialization](https://www.coursera.org/specializations/uiuc-iot#courses).
+
 ## Work and Research Experience
 * 12/2018 - Present: Research Programmer at NCSA
     * Developed software with researchers across various fields (e.g. civil engineering, economics, and environmental
