@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 ---
 ## Diego Calderon 
-Research programmer at [NCSA](https://www.ncsa.illinois.edu/) working on three open-source projects: [IN-CORE](https://incore.ncsa.illinois.edu/), 
+Incoming MS cs student @UIUC. Research programmer at [NCSA](https://www.ncsa.illinois.edu/) working on three open-source projects: [IN-CORE](https://incore.ncsa.illinois.edu/), 
 [Direct4Ag](https://github.com/Direct4Ag/frontend), and [SMARTFARM](https://www.ncsa.illinois.edu/research/project-highlights/smartfarm/).
 
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=uiWCtzcAAAAJ&hl=en&oi=ao)
