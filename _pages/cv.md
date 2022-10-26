@@ -3,17 +3,22 @@ permalink: /cv/
 title: "CV"
 ---
 ## Diego Calderon 
-Incoming MS cs student @UIUC. Research programmer at [NCSA](https://www.ncsa.illinois.edu/) working on three open-source projects: [IN-CORE](https://incore.ncsa.illinois.edu/), 
-[Direct4Ag](https://github.com/Direct4Ag/frontend), and [SMARTFARM](https://www.ncsa.illinois.edu/research/project-highlights/smartfarm/).
+MS in computer science student @UIUC. Former Research programmer at [NCSA](https://www.ncsa.illinois.edu/).
 
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=uiWCtzcAAAAJ&hl=en&oi=ao)
 <i class="fab fa-fw fa-github"></i> [GitHub](https://github.com/calderondiego)
 <i class="fab fa-fw fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/diego-calderon-82a2b911a/)
 
-Currently enrolled on UIUC's [Hands-on Internet of Things Specialization](https://www.coursera.org/specializations/uiuc-iot#courses).
+## Education
+* M.S. in Computer Science, University of Illinois Urbana-Champaign (expected 2024)
+* B.S. in Computer Science, University of Arkansas, 2018
+    * Magna Cum Laude, GPA: 3.85/4.0
+    * Thesis: Training Machine Learning Agents in a 3D Game Engine
+    * Minor in Mathematics
+
 
 ## Work and Research Experience
-* 12/2018 - Present: Research Programmer at NCSA
+* 12/2018 - 07/2022: Research Programmer at NCSA
     * Developed software with researchers across various fields (e.g. civil engineering, economics, and environmental
       sciences).
     * Implemented the OpenID Connect authentication protocol for IN-CORE (developed an external authentication
@@ -37,12 +42,6 @@ Currently enrolled on UIUC's [Hands-on Internet of Things Specialization](https:
     * Designed, implemented, and tested functional spaces of game levels.
     * Collaboratively designed, implemented, and balanced gameplay.
 
-    
-## Education
-* B.S. in Computer Science, University of Arkansas, 2018
-    * Magna Cum Laude, GPA: 3.85/4.0
-    * Thesis: Training Machine Learning Agents in a 3D Game Engine
-    * Minor in Mathematics
 
 ## Skills 
 * Programming Languages: Python, C#, Java, C++, R
