@@ -4,8 +4,7 @@ title: "CV"
 ---
 
 ## Diego Calderon
-MS in computer science student @UIUC. Former Research Programmer at [NCSA](https://www.ncsa.illinois.edu/).
-
+Highly adaptable, curious, and lifelong learner.
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=uiWCtzcAAAAJ&hl=en&oi=ao)  
 <i class="fab fa-fw fa-github"></i> [GitHub](https://github.com/calderondiego)  
 <i class="fab fa-fw fa-linkedin-in"></i> [LinkedIn](https://www.linkedin.com/in/diego-calderon-82a2b911a/)
