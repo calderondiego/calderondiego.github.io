@@ -3,7 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-I am a MS student in computer science at U of I. I live in Urbana with my wife, Ale, and our dog Mushu.
+I am a curious and avid learner. I seek to use my skills in the work I do to benefit my community. I am currently a produce associate at Whole Foods Market. In my life at Illinois, I worked as a bus operator, a graduate student in computer science, and a research programmer at the National Center for Supercomputing Applications. In what feels a past life, I was a game designer and tools programmer at Tesseract Center for Game Design at the Unviersity of Arkansas. 
+
+I live in Boston, MA with my wife Ale, and our two dogs, Mushu and Mishka (yes, we didn't think it through with their names and it's easy to mix their names).
 
 ![Ale and Mushu](/assets/images/mushuyale.jpg)
 
